@@ -36,7 +36,7 @@ Background blur is applied when the modal is active.
 - A modern web browser that supports JavaScript.
 
 ### Steps
-1. Clone the repository:
+1.  Clone the repository:
 - git clone https://github.com/sharpartzgh/Responsive-Product-List
 2. Navigate to the project directory:
 - cd Responsive-Product-List

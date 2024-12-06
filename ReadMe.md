@@ -5,8 +5,8 @@
 ### Product Listing
 Products are dynamically rendered from a JSON array.
 Includes product image, name, price, and buttons to:
-    * Add to cart.
-    * View more details.
+-   Add to cart.
+-   View more details.
     
 ### Search Functionality
 - Allows users to search for products by name or first letter.
